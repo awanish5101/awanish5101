@@ -32,9 +32,6 @@
   A JavaScript web app that fetches real-time weather data using OpenWeatherMap API.  
   ✅ Dynamic temperature, city search, and live weather icons.
 
-- 🔗 [**Portfolio Website**](https://github.com/awanish5101/PORTFOLIO)  
-  A personal portfolio to showcase skills and projects.  
-  ✅ Sleek, mobile-friendly design built using HTML, CSS, and JS.
 
 ---
 
