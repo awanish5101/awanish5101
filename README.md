@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Awnish Kumar
 
-<!--
-**awanish5101/awanish5101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final year student | 💻 Aspiring Software Developer | ❤️ Tech Explorer 
 
-Here are some ideas to get you started:
+## 🚀 Skills & Tools
+- HTML, CSS, JavaScript
+- React.js, Tailwind CSS 
+-  Java, Python
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 My Projects
+- [🌐 Threads App Clone](https://github.com/awanish5101/thread-clone)
+- [☀️ Weather App](https://github.com/awanish5101/Weather-App)
+- [🧠 DSA Visualizer (fork)](https://github.com/awanish5101/dsa-visualizer-tool)
+
+## 📈 GitHub Stats
+![Awnish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=awanish5101&show_icons=true&theme=radical)
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/awanish-chaurasiya-2378aa289/)
+- Email: avanish84ya@gmail.com
