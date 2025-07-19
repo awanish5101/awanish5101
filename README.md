@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Awnish Chaurasia</h1>
+<h1 align="center">Hi 👋, I'm Awanish Chaurasiya</h1>
 <h3 align="center">Aspiring Web Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 ---
