@@ -49,7 +49,7 @@
 
 ### 🌐 Let's Connect!
 - 📧 **Email**: avanish84ya.com  
-- 💼 [**LinkedIn**](https://linkedin.com/in/your-link](https://www.linkedin.com/in/awanish-chaurasiya-2378aa289/) 
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/awanish-chaurasiya-2378aa289/) 
 
 ---
 
