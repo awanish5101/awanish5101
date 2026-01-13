@@ -24,6 +24,10 @@
 
 ### 📌 Featured Projects
 
+- 🔗 [**Restaurants Recommendation System**](https://github.com/awanish5101/restaurants-recommendation)  
+  A Java and Spring Boot based restaurant recommendation system.  
+  ✅ Suggests restaurants using user preferences, past interactions, and rating history.
+
 - 🔗 [**Threads App Clone**](https://github.com/awanish5101/thread-clone)  
   A frontend UI clone of Meta’s Threads app.  
   ✅ Built using HTML, CSS & JavaScript with modern responsive design.
