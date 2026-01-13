@@ -45,7 +45,7 @@
 ---
 
 ### 🌐 Let's Connect!
-- 📧 **Email**: avanish84ya.com  
+- 📧 **Email**: avanish84ya@gmail.com  
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/awanish-chaurasiya-2378aa289/) 
 
 ---
